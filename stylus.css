@@ -15,7 +15,8 @@ h1 {
     padding: 10px;
 }
 
-h2 {
+h2,
+h5 {
     color: yellow;
     margin: 20px;
     padding: 10px;
@@ -25,4 +26,11 @@ p {
     color: white;
     margin: 20px;
     padding: 10px;
+}
+
+h5 {
+    color: red;
+    margin: 20px;
+    padding: 10px;
+    background-color: greenyellow;
 }
